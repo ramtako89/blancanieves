@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+sundo cambio mas otro texto y ahora mas texto de una linda caperucita
+mas texto
+=======
+cuento nuevo cuento
+>>>>>>> imagenes_alternativas
