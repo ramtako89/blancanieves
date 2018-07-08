@@ -4,3 +4,4 @@ mas texto
 =======
 cuento nuevo cuento
 >>>>>>> imagenes_alternativas
+ahora esvribimos en linea
